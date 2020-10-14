@@ -1,0 +1,10 @@
+/** Étape 3 - Structure CSS **/
+body {
+  font-family: Poppins, sans-serif;
+  margin: 0;
+}
+
+@font-face {
+  font-family: Poppins;
+  src: url('../fonts/Poppins-Regular.ttf') format('truetype');
+}
